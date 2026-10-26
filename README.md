@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome" /></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Procurement-Service-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Procurement-Service-Management?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Procurement-Service-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Procurement-Service-Management?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Procurement-Service-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Procurement-Service-Management?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Procurement-Service-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Procurement-Service-Management/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -71,9 +71,9 @@ The table below compiles leading commercial Procurement Service Management and P
 
 Explore verified open-source repositories for self-hosted procurement automation, tendering, supplier evaluation, and AI-assisted source-to-pay workflows.
 
-> **Sorted in descending order by GitHub Star count.** Click the star badge beside any repository to inspect its stargazers.
+> **Sorted in descending order by GitHub Stars_Count.** Click the Stars_Badge beside any repository to inspect its stargazers.
 
-| # | 📦 Repository & Project | ⭐ GitHub Stars Badge | 🛠️ Tech Stack | 💡 Focus & Key Capabilities |
+| # | 📦 Repository & Project | ⭐ GitHub_Stars_Badge | 🛠️ Tech Stack | 💡 Focus & Key Capabilities |
 | :-: | :--- | :--- | :--- | :--- |
 | **1** | **[ERPNext (Buying & Procurement)](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe, MariaDB, JS | Full-featured enterprise open-source ERP with an end-to-end purchasing module: Material Requests, Supplier Quotations, Purchase Orders, Automatic Reorder Levels, and 3-Way Matching. |
 | **2** | **[Apache OFBiz](https://github.com/apache/ofbiz-framework)** | [![Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) | Java, Gradle, Groovy | Mature enterprise suite providing comprehensive B2B order management, supplier agreements, purchasing agreements, inventory replenishment, and accounting integration. |
@@ -131,7 +131,7 @@ We welcome additions, corrections, and updates from the procurement and open-sou
 3. 📝 Update `README.md` following the established table formats:
    - Provide verified, non-generic starting tier pricing.
    - Specify exact free tier or free trial limits.
-   - Include the GitHub star badge linking to the stargazers page.
+   - Include the GitHub Stars_Badge linking to the stargazers page.
 4. 🧪 Verify that all markdown links and SVG assets render cleanly.
 5. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
